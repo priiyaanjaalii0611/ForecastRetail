@@ -8,5 +8,11 @@ Predicts value of an item in a daily basis and visualize the prediction accordin
 
 ## GENERAL TREND THAT CAN BE OBSERVED
 
-<img src="C:\Users\utaku\Pictures\Datascience\download.png" width="250"/>
+<img src="retail_plots/general.png" width="700" height="400"/>
+<br>
+
+## DECOMPOSED PLOTS
+
+<br>
+<img src="retail_plots/trend.png" width="500" height="900"/>
 
